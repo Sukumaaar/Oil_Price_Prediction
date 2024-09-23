@@ -1,7 +1,7 @@
 # Project Overview
 This thesis project focuses on predicting oil price volatility using advanced deep learning models such as Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU), and CNN-LSTM. The research explores how these models perform in comparison to traditional forecasting methods, leveraging a combination of macroeconomic data, geopolitical risk indices, and oil-specific data to enhance the predictive accuracy of oil prices.
 
-##Objectives
+## Objectives
 To predict oil price volatility using deep learning models that can capture temporal dependencies in the data.
 To evaluate the performance of LSTM, GRU, and CNN-LSTM models in terms of prediction accuracy, comparing them to traditional time-series forecasting models.
 To analyze the influence of macroeconomic factors and geopolitical risks on oil price movements and incorporate them into the prediction models.
